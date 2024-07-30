@@ -12,8 +12,8 @@
 //https://developer.spotify.com/console/get-recommendations/
 //playlist-modify-private
 const SPOTIFY_TOKEN =
-  "BQBiefmS4gP3SFaGV-gv5RqEKYwuAFdpaManK2CPTHhn1vKS8TCNfzBkfKjtFE4vE31BTKRvq2OiEl791Xa-bM8kNbVac1qUjo7cR1lLVivr1WtAs2t0XOS_S5mQTCD988q5iY7pq6YFiKbqowHonwnFdHexDzI8nS9q058UUZ01i77Cl3po2yx6O5Kv3So";
-const SPOTIFY_USER_ID = "madeyw0ezc5bnvzdbun1vycrh";
+  "CHANGEME";
+const SPOTIFY_USER_ID = "CHANGEME";
 
 const baseSpotifyRequestObj = {
     method: "GET",
